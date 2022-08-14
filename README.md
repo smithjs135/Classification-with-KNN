@@ -34,17 +34,16 @@ The target variable, ‘ReAdmis’, and various features will be fed into the de
   ![alt_text](https://github.com/smithjs135/Classification-with-KNN/blob/main/DT_selected.jpg "DT attributes")
         
 ## EDA
-  *  <cp>  
-  *  <heatmp>    pain
+  ![alt_text](https://github.com/smithjs135/Classification-with-KNN/blob/main/cp_readmis.jpg "")  
+  ![alt_text](https://github.com/smithjs135/Classification-with-KNN/blob/main/heatmap.jpg "heatmap.jpg")
 ## Results 
   * K-value = 5
   * ** Mean Squared Error: ** 0.071  
   * Confusion matrix
- ![alt text](https://github.com/smithjs135/Classification-with-KNN/blob/main/CM.jpg "")
-    
-          <CM>
-            <accuracy>
-              <error_rate>
+ ![alt text](https://github.com/smithjs135/Classification-with-KNN/blob/main/CM.jpg "Confusion Matrix")
+ ![alt text](https://github.com/smithjs135/Classification-with-KNN/blob/main/AccuracyScore.jpg "AccuracyScore")
+ ![alt text](https://github.com/smithjs135/Classification-with-KNN/blob/main/error_rate.jpg "error_rate")
+ 
 ## Refinement
 KNN requires an input variable called the “K” value.  I made an initial best guess of 5 as to the “K” value and received an accuracy value of 81%.  I then charted the error curves two different ways(Tarek Atwan, p.1). These charts provide clues to determine an ideal “K” value.  Screen shots of both error charts follow:
   * K-value = 15   
