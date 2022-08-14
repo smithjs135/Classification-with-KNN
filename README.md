@@ -31,7 +31,7 @@ The target variable, ‘ReAdmis’, and various features will be fed into the de
   * Clolumns: 52
     
 ## Selected Attributes
-  * <DT
+  ![alt_text](https://github.com/smithjs135/Classification-with-KNN/blob/main/DT_selected.jpg "DT attributes")
         
 ## EDA
   *  <cp>  
