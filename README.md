@@ -40,7 +40,7 @@ The target variable, ‘ReAdmis’, and various features will be fed into the de
   * K-value = 5
   * ** Mean Squared Error: ** 0.071  
   * Confusion matrix
-  <cm>
+ ![alt text](https://github.com/smithjs135/Classification-with-KNN/blob/main/CM.jpg "")
     
           <CM>
             <accuracy>
